@@ -3,6 +3,12 @@
 Alfa is an advanced AI agent designed to guide small business owners through the LLC formation process while acting as a strategic virtual CEO. This platform combines intuitive user interfaces with powerful AI capabilities to provide comprehensive business formation and management support.
 
 ![image](https://github.com/user-attachments/assets/ccec38b6-09ca-428a-a86f-171c86b48004)
+![image](https://github.com/user-attachments/assets/54bfd8c2-35f0-4267-86bc-7bee3d225874)
+![image](https://github.com/user-attachments/assets/27ddcdcd-e383-4f87-b196-f77158b97d7c)
+![image](https://github.com/user-attachments/assets/362d746f-4fdf-4faa-a076-9a1144743730)
+![image](https://github.com/user-attachments/assets/f2d05e49-9a60-4484-969d-fe0f3181072c)
+![image](https://github.com/user-attachments/assets/43ffa9d2-b259-4eea-ac14-bba5fabe8ae9)
+
 
 
 ## Features
